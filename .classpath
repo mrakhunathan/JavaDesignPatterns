@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="singleton"/>
-	<classpathentry kind="src" path="adapter"/>
-	<classpathentry kind="src" path="daopatterns"/>
-	<classpathentry kind="src" path="facade"/>
-	<classpathentry kind="src" path="mvc"/>
-	<classpathentry kind="src" path="observer"/>
-	<classpathentry kind="src" path="singletonlazy"/>
+	<classpathentry kind="src" path="creational.singleton"/>
+	<classpathentry kind="src" path="structural.adapter"/>
+	<classpathentry kind="src" path="structural.facade"/>
+	<classpathentry kind="src" path="creational.singletonlazy"/>
+	<classpathentry kind="src" path="creational.factory"/>
+	<classpathentry kind="src" path="creational.abstractfactory"/>
+	<classpathentry kind="src" path="creational.builder"/>
+	<classpathentry kind="src" path="creational.prototype"/>
+	<classpathentry kind="src" path="structural.bridge"/>
+	<classpathentry kind="src" path="structural.composite"/>
+	<classpathentry kind="src" path="structural.decorator"/>
+	<classpathentry kind="src" path="structural.flyweight"/>
+	<classpathentry kind="src" path="structural.proxy"/>
+	<classpathentry kind="src" path="structural.filter"/>
+	<classpathentry kind="src" path="behavioural.chainofresponsibility"/>
+	<classpathentry kind="src" path="behavioural.command"/>
+	<classpathentry kind="src" path="behavioural.interpreter"/>
+	<classpathentry kind="src" path="behavioural.iterator"/>
+	<classpathentry kind="src" path="behavioural.mediator"/>
+	<classpathentry kind="src" path="behavioural.memento"/>
+	<classpathentry kind="src" path="behavioural.observer"/>
+	<classpathentry kind="src" path="behavioural.state"/>
+	<classpathentry kind="src" path="behavioural.nullobject"/>
+	<classpathentry kind="src" path="behavioural.strategy"/>
+	<classpathentry kind="src" path="behavioural.template"/>
+	<classpathentry kind="src" path="behavioural.visitor"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
