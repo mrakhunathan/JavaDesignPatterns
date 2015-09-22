@@ -4,7 +4,7 @@
 	<classpathentry kind="src" path="singleton"/>
 	<classpathentry kind="src" path="adapter"/>
 	<classpathentry kind="src" path="daopatterns"/>
-	<classpathentry kind="src" path="factory"/>
+	<classpathentry kind="src" path="facade"/>
 	<classpathentry kind="src" path="mvc"/>
 	<classpathentry kind="src" path="observer"/>
 	<classpathentry kind="src" path="singletonlazy"/>
